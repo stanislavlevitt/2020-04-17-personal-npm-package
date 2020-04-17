@@ -1,10 +1,10 @@
 {
-  "name": "2020-04-17-personal-npm-package",
+  "name": "@stanislavlev/curry",
   "version": "1.0.0",
   "description": "Hackathon NPM",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/mocha/bin/mocha test",
+    "test": "./node_modules/mocha/bin/mocha test"
   },
   "repository": {
     "type": "git",
