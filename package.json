@@ -1,0 +1,22 @@
+{
+  "name": "2020-04-17-personal-npm-package",
+  "version": "1.0.0",
+  "description": "Hackathon NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislavlevitt/2020-04-17-personal-npm-package.git"
+  },
+  "author": "stanislav levitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stanislavlevitt/2020-04-17-personal-npm-package/issues"
+  },
+  "homepage": "https://github.com/stanislavlevitt/2020-04-17-personal-npm-package#readme",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
